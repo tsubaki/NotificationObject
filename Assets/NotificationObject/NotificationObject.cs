@@ -19,7 +19,7 @@ public class NotificationObject<T>
 	{ 
 		Dispose ();
 	}
-	
+	 
 	public UnityEngine.Events.UnityAction<T> action = null;
 
 	public T Value {
